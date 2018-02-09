@@ -15,12 +15,13 @@ public class Digitron {
 	 * @param args
 	 *            the command line arguments
 	 */
-	public static void main(String[] args) {
-		// TODO code application logic here
-	}
+	
 
 	public static void dijeljenje(double a, double b) {
 		System.out.println(a / b);
 	}
-
+	
+	public static void oduzimanje(double a, double b){
+		System.out.println(a - b);
+	}
 }
